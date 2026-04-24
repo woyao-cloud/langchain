@@ -1,0 +1,4 @@
+?? docs/
+?? libs/git_status.txt
+?? libs/gitlog_check.txt
+?? libs/path_check.txt
